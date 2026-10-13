@@ -29,7 +29,7 @@ La siguiente estructura permite acceder a los principales documentos del proyect
 | [Documentación](<Documentación/>) | Directorio con la documentación funcional, técnica y legal. |
 | [Notas y lista de tareas](<NOTAS / Lista de Tareas.md>) | Seguimiento de pendientes, mejoras e ideas. |
 | [Prompts](<prompts/>) | Prompts y recursos utilizados durante el desarrollo. |
-| [BASE-JSP_MiPedidoJSP](BASE-JSPMiPedidoJSP/Proyecto/)| proyecto base que se tomara para darle continuidad y obtener Mi Pedido 0.1. |
+| [MantSoftware](MantSoftware/Proyecto/)| version en php para comparar con BASE-JSP_MiPedidoJSP  |
 
 ### Documentación técnica y funcional
 
