@@ -25,10 +25,11 @@ La siguiente estructura permite acceder a los principales documentos del proyect
 
 | Recurso | Descripción |
 |---|---|
-| [Mi Pedido — Documentación base](<Mi pedido doc base>) | Material de referencia inicial del proyecto. |
+| [BASE-JSP_MiPedidoJSP](<BASE-JSP_MiPedidoJSP>) | Material de referencia inicial del proyecto. |
 | [Documentación](<Documentación/>) | Directorio con la documentación funcional, técnica y legal. |
 | [Notas y lista de tareas](<NOTAS / Lista de Tareas.md>) | Seguimiento de pendientes, mejoras e ideas. |
 | [Prompts](<prompts/>) | Prompts y recursos utilizados durante el desarrollo. |
+| [BASE-JSP_MiPedidoJSP](BASE-JSPMiPedidoJSP/Proyecto/)| proyecto base que se tomara para darle continuidad y obtener Mi Pedido 0.1. |
 
 ### Documentación técnica y funcional
 
@@ -47,6 +48,8 @@ La siguiente estructura permite acceder a los principales documentos del proyect
 | **Mi Pedido 0.1** | Versión inicial o primera iteración del sistema. |
 | **Pruebas de Calidad** | Evidencias, casos de prueba, resultados y seguimiento de defectos. |
 | **README.md** | Punto de entrada e índice principal del repositorio. |
+| **MantSoftware**| version en php para comparar el proyecto. |
+| **BASE-JSP_MiPedidoJSP**| proyecto base que se tomara para darle continuidad y obtener Mi Pedido 0.1. |
 
 > Los nombres y enlaces de esta sección deben coincidir con las rutas reales del repositorio. Los enlaces a directorios o documentos pendientes de crear deberán actualizarse cuando estén disponibles.
 
